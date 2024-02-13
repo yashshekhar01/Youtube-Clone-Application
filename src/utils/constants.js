@@ -36,6 +36,6 @@ export const categories = [
 export const demoThumbnailUrl = 'https://w7.pngwing.com/pngs/71/189/png-transparent-vidcon-us-youtube-logo-advertising-television-youtube-television-text-trademark-thumbnail.png';
 export const demoChannelUrl = 'https://www.youtube.com/c/NatGeo';
 export const demoVideoUrl = 'https://www.youtube.com/watch?v=brE21SBO2j8';
-export const demoChannelTitle = 'Video Sharing Application';
+export const demoChannelTitle = 'Youtube Video Player Application';
 export const demoVideoTitle = 'An application made with React JS, Rapid API & Material UI 5';
 
